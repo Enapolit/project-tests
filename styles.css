@@ -61,7 +61,7 @@ img {
 .text {
   flex-basis: 72%;
 }
-
+.icon img{max-width:100px}
 
 /*********************************************************************
   YOUR TABLET/DESKTOP STYLES GO HERE
