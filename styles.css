@@ -63,6 +63,12 @@ img {
 }
 .icon img{max-width:100px}
 
+.text2{
+  padding: 10px;
+  margin-bottom: 22px;
+  border: 1px solid #000;
+  text-align: right;
+}
 /*********************************************************************
   YOUR TABLET/DESKTOP STYLES GO HERE
 *********************************************************************/
