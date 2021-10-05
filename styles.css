@@ -88,3 +88,8 @@ h1 {
 p {
   color: red;
 }
+ p {
+    font-size: 12px;
+  }
+.h1 { font-size: 28px; 
+}
