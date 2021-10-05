@@ -80,10 +80,11 @@ img {
 }
 
 body {
-  background-color: powderblue;
+  background-color: blue;
+  opacity: 0.3
 }
 h1 {
-  color: blue; font-size: 12px;
+  color: red; font-size: 12px;
 }
 p {
   color: red;
