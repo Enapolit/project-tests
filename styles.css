@@ -99,8 +99,8 @@ p2 {
   text-align: right;
   color: grey;
 }
-.container2 {
+.container {
   max-width: 800px;
-  margin: auto;
+  margin: 0 auto;
   border-style: double;
 }
