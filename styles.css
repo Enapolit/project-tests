@@ -101,6 +101,9 @@ p2 {
 }
 .container2{
   max-width: 800px;
-  margin: 0 auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 200px;
+  margin-left: 200px;
   border-style: double;
 }
