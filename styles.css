@@ -99,3 +99,6 @@ p2 {
   text-align: right;
   color: grey;
 }
+h2 {
+ border-style: double;
+}
