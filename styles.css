@@ -80,8 +80,7 @@ img {
 }
 
 body {
-  background-color: mediumseagreen;
-  opacity: 0.3
+ background-color: rgba(0, 128, 0, 0.3);
 }
 h1 {
   color: white;
@@ -90,7 +89,4 @@ h1 {
 }
 p {
   color: red;
-}
-div {
-  background: rgba(0, 128, 0, 0.3) /* Green background with 30% opacity */
 }
