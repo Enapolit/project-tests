@@ -91,3 +91,6 @@ h1 {
 p {
   color: red;
 }
+div {
+  background: rgba(0, 128, 0, 0.3) /* Green background with 30% opacity */
+}
