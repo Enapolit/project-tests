@@ -111,6 +111,12 @@ p2 {
   text-align: right;
   color: grey;
 }
+
+p3 {
+  text-align: center;
+  color: white;
+  font-size: 14px;
+}
 .containertwo {
   max-width: 800px;
   margin: 0 auto;
