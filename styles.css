@@ -61,6 +61,7 @@ img {
 
 .text {
   flex-basis: 72%;
+  text-align:left;
 }
 .icon img{max-width:100px}
 
@@ -95,7 +96,7 @@ h1 {
 }
 p {
   text-align: left;
-  color: white;
+  color: grey;
 }
 h1 {
   margin-top: 50px;
